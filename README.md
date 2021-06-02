@@ -23,7 +23,7 @@ Based on all this past information, you want to build a model which will predict
 
 ### Test-train split and scaling
 
-### Model Building
+### Model Building Using Logisitc Regression
 
 * Feature elimination based on correlations
 * Feature selection using RFE (Coarse Tuning)
